@@ -1,0 +1,13 @@
+{
+  "name": "assembly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tofunmi1 <folakemiadediran14@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typechain/ethers-v5": "^10.0.0",
+    "ethers": "^5.6.5",
+    "typechain": "^8.0.0",
+    "typechain-target-ethers-v5": "^5.0.1"
+  }
+}
