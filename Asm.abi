@@ -1,1 +1,0 @@
-[{"inputs":[],"name":"asmLoops","outputs":[{"internalType":"uint256","name":"_r","type":"uint256"}],"stateMutability":"pure","type":"function"},{"inputs":[{"internalType":"uint256[]","name":"arr","type":"uint256[]"}],"name":"asmSumOfArray","outputs":[{"internalType":"uint256","name":"sum","type":"uint256"}],"stateMutability":"pure","type":"function"}]
